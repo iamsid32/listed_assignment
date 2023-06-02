@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ListedPOC" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#0E6FFF</item>
+        <item name="colorPrimaryDark">#0E6FFF</item>
+        <item name="colorAccent">#0E6FFF</item>
+        <item name="android:statusBarColor">#0E6FFF</item>
+    </style>
+
+    <style name="Theme.ListedPOC" parent="Base.Theme.ListedPOC" />
+</resources>
